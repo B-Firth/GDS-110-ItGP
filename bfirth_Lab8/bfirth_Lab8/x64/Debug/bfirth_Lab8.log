@@ -1,0 +1,11 @@
+﻿  bfirth_Lab8.cpp
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(33,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(34,30): warning C4101: 'moveRight': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(35,53): warning C4101: 'c': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(35,43): warning C4101: 'blockRow': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(35,56): warning C4101: 'r': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(35,33): warning C4101: 'blockCol': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(132,9): warning C4101: 'r': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(144,9): warning C4101: 'r': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\bfirth_Lab8\bfirth_Lab8.cpp(155,6): warning C4101: 'c': unreferenced local variable
+  bfirth_Lab8.vcxproj -> C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab8\x64\Debug\bfirth_Lab8.exe

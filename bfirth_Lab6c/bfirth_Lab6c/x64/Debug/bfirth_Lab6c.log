@@ -1,0 +1,11 @@
+﻿  bfirth_Lab6c.cpp
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(33,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(34,53): warning C4101: 'c': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(34,43): warning C4101: 'blockRow': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(34,56): warning C4101: 'r': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(34,33): warning C4101: 'blockCol': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(55,9): warning C4101: 'r': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(67,9): warning C4101: 'r': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(80,6): warning C4101: 'c': unreferenced local variable
+C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\bfirth_Lab6c\bfirth_Lab6c.cpp(91,6): warning C4101: 'c': unreferenced local variable
+  bfirth_Lab6c.vcxproj -> C:\Users\gamer\Desktop\GDS-110-ItGP\bfirth_Lab6c\x64\Debug\bfirth_Lab6c.exe
